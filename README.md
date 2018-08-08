@@ -2,7 +2,7 @@
 
 
 **FEATURES**
-1. Fetche the next Birthday Event from the Calendar.
+1. Fetches the next Birthday Event from the Calendar.
 2. Creates an new event in the Calendar.
 
 **API USED**
@@ -19,7 +19,7 @@ Google Calendar API
 **STEPS TO RUN THE CODE**
 
 1. git clone https://github.com/mridubhatnagar/Event_Fetcher.git
-2. cd Event_Fetcher
+2. `cd Event_Fetcher`
 3. Enable the Google Calendar API https://developers.google.com/calendar/quickstart/python
 4. Go to above link. Click on enable the calendar API.
 5. Create or Select from your existing projects. Click on Next. Select download client configrations. 
