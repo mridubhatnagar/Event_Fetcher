@@ -14,6 +14,8 @@ Google Calendar API
 
     Alternate approach could be to create a new calendar. Which is only a Birthday Calendar. Get calendar ID for this
     calendar and replace calendarId = 'primary' with the new calendar ID and proceed.
+    
+2. Python version 3.5.2 is used. Compatible for any version greater than Python3.
 
 
 **STEPS TO RUN THE CODE**
