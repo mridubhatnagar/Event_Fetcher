@@ -18,30 +18,31 @@ Google Calendar API
 
 **STEPS TO RUN THE CODE**
 
-1. git clone 
-1. Enable the Google Calendar API https://developers.google.com/calendar/quickstart/python
-2. Go to above link. Click on enable the calendar API.
-3. Create or Select from your existing projects. Click on Next. Select download client configrations. 
-4. Credentials.json would be downloaded onto your system. Copy from downloads folder and place credentials.json
+1. git clone https://github.com/mridubhatnagar/Event_Fetcher.git
+2. cd Event_Fetcher
+3. Enable the Google Calendar API https://developers.google.com/calendar/quickstart/python
+4. Go to above link. Click on enable the calendar API.
+5. Create or Select from your existing projects. Click on Next. Select download client configrations. 
+6. Credentials.json would be downloaded onto your system. Copy from downloads folder and place credentials.json
    the cloned repository.
-5. Go into the cloned repository. Create virtual enviornment.
+7. Go into the cloned repository. Create virtual enviornment.
    On Linux
    
    `virutalenv venv`
    
-6. Activate the virtual enviornment
+8. Activate the virtual enviornment
 
    `source venv/bin/activate`
    
-7. Install all the requirements.
+9. Install all the requirements.
 
    `pip install -r requirements.txt`
 
-8. Run the file. 
+10. Run the file. 
 
    `python credentails.py`
 
-9. It will prompt you and token.json would be installed. Once you give the
+11. It will prompt you and token.json would be installed. Once you give the
    allow the application to access the calendar.
 
 **INFORMATION**
