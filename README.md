@@ -4,6 +4,7 @@
 **FEATURES**
 1. Fetches the next Birthday Event from the Calendar.
 2. Creates an new event in the Calendar.
+3. Email Notification 5 minutes before the event.
 
 **API USED**
 Google Calendar API
