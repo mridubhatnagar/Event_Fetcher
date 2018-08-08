@@ -54,4 +54,8 @@ Google Calendar API
 2. config.py - Contains the JSON which is needed for the event creation.
 
 
+**NOTE**
+Enter the url in the browser which gets generated on running the code. To see event created.
+
+
 
